@@ -5,6 +5,8 @@
 ---
 
 ## To Run:
+Required: Must give the name of the configuration JSON file for the flight simulation. 
+
 ./flightSimulation \<configFile>
 
 example: 
